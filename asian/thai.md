@@ -3,7 +3,8 @@
 ---
 Select a restaurant:
 ## [Glow Thai](http://www.glowthairestaurant.com/)
-## [Thai](https://thepnewyork.com/)
+## [THEP Thai](https://thepnewyork.com/)
 ---
-Back to Asian
-Start Over
+[Back to Asian](asian.md)
+
+[Start Over](../home.md)
