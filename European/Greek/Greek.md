@@ -1,12 +1,13 @@
 # Bay Ridge Restaurant Guide
-# Greek
+## European --> Greek
 
 ---
 
-Select a specific Greek food:
+Select a restaurant:
+
 
 
 ---
 
-
+[Back to European](..)
 [Start Over](../home.md)

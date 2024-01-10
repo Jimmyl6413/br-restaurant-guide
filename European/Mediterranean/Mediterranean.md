@@ -1,14 +1,14 @@
 # Bay Ridge Restaurant Guide
-# European-->Mediterranean
+## European --> Mediterranean
 
 ---
+
 Select a restaurant:
-##
-
+## [Sveta](https://sveta-nyc.com/)
+## [Budapest Cafe](https://budapest-cafe.business.site/?utm_source=gmb&utm_medium=referral)
 
 
 ---
-[Start Over](../home.md)
 
 
 
@@ -17,77 +17,5 @@ Select a restaurant:
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+[Back to European](..)
 [Start Over](../home.md)
