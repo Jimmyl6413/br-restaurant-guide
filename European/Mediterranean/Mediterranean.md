@@ -1,9 +1,9 @@
 # Bay Ridge Restaurant Guide
-# Mediterranean
+# European-->Mediterranean
 
 ---
-Select a specific European food:
-## 
+Select a restaurant:
+##
 
 
 
