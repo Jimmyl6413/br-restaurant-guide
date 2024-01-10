@@ -5,9 +5,9 @@
 
 Select a restaurant:
 
-[Loi Estiatorio](https://www.loiestiatorio.com/)
+## [Loi Estiatorio](https://www.loiestiatorio.com/)
 
-[Pylos](https://pylosrestaurant.com/)
+## [Pylos](https://pylosrestaurant.com/)
 
 ---
 
