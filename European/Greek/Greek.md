@@ -6,7 +6,7 @@
 Select a restaurant:
 []()
 
-[]()
+[Pylos Restaurant](https://pylosrestaurant.com/)
 
 ---
 
