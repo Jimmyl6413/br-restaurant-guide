@@ -13,5 +13,5 @@ Select a restaurant:
 
 [Back to European](../European.md)
 
-[Start Over](../home.md)
+[Start Over](../../home.md)
 
