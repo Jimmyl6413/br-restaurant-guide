@@ -4,8 +4,8 @@
 
 Select a specific European Food:
 
-## [Greek](European/Greek/Greek.md)
-## [Mediterranean](European/Mediterranean/Mediterranean.md)
+## [Greek](Greek/Greek.md)
+## [Mediterranean](Mediterranean/Mediterranean.md)
 
 ---
 
