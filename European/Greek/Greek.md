@@ -7,7 +7,7 @@ Select a restaurant:
 
 [Loi Estiatorio](https://www.loiestiatorio.com/)
 
-[Pylos Restaurant](https://pylosrestaurant.com/)
+[Pylos](https://pylosrestaurant.com/)
 
 ---
 
